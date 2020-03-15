@@ -49,7 +49,7 @@ questions = [
         "effect": {
             "econ": 5,
             "dipl": 0,
-            "govt": -10,
+            "govt": -5,
             "scty": 0
         }
     },
@@ -139,7 +139,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": -5,
+            "govt": 0,
             "scty": 0
         }
     },
@@ -157,7 +157,7 @@ questions = [
         "effect": {
             "econ": -5,
             "dipl": 10,
-            "govt": 10,
+            "govt": 0,
             "scty": 5
         }
     },
@@ -166,7 +166,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": -5,
+            "govt": 0,
             "scty": 0
         }
     },
@@ -256,7 +256,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": -5,
-            "govt": -10,
+            "govt": -5,
             "scty": -10
         }
     },
@@ -400,7 +400,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -5,
+            "govt": 0,
             "scty": -10
         }
     },
@@ -513,11 +513,11 @@ questions = [
         }
     },
     {
-        "question": "Sex outside marriage is immoral.",
+        "question": "Sex outside marriage is immoral and should be penalized by the government.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -5,
+            "govt": -15,
             "scty": -10
         }
     },
@@ -621,11 +621,11 @@ questions = [
         }
     },
     {
-        "question": "It is important that we further my group's goals above all others.",
+        "question": "It is important that we further my group's goals above all others, even at their expense.",
         "effect": {
             "econ": -10,
             "dipl": -10,
-            "govt": -10,
+            "govt": -20,
             "scty": -10
         }
     }
